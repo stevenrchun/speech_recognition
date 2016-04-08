@@ -21,7 +21,7 @@ Hopefully the code is fairly easy to understand.
 
 3. Get a google speech-recognition key, there are guides to doing this online.
 
-4. Code in your API Keys where needed.
+4. Code in your API Keys where needed. Wolfram Alpha goes in the main driver code for Winston '__main__' and the google key goes in the Uberi's '__init__' file under the method 'google_recognize'
 
 5. HACK ONTO IT.
 
