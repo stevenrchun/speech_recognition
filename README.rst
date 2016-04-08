@@ -1,3 +1,37 @@
+Winston
+===============
+
+**As my first fork/doing anything really on github, this is going to be messy:**
+
+Winston is a question answering script written in Python. 
+
+It's (or he's) built primarily using the incredibly helpful Speech_recognition by Uberi
+which can be found here: https://github.com/Uberi/speech_recognition
+
+Any code which I've expanded on or written myself can be found under the file 'Winston'. 
+Running main will let you ask a question, which will then be passed to Wolfram_Alpha, which will return a response, which is finally passed to Amazon's IVONA text-to-speech API which provides the spoken reponse!
+
+Hopefully the code is fairly easy to understand.
+
+**Installation**
+
+1. Follow Uberi's installation guide to install all the neccesary dependencies and whatnot. This may take a while, and if you're me and you have *zero* experience, it will be a valuable/infuriating learning experience.
+
+2. Get a Wolfram_Alpha API Key here: http://products.wolframalpha.com/api/?_ga=1.35716711.673866907.1459881498
+
+3. Get a google speech-recognition key, there are guides to doing this online.
+
+3. Code in your API Keys where needed.
+
+4. HACK ONTO IT.
+
+**Notes**
+
+I kept running into IO[Stream] errors using Uberi's Speech_Recognition library, so I wrote some really ugly workarounds. But hey, I had taken a total of 1 CS class at this point.
+
+
+
+
 SpeechRecognition
 =================
 
