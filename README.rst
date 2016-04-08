@@ -21,9 +21,9 @@ Hopefully the code is fairly easy to understand.
 
 3. Get a google speech-recognition key, there are guides to doing this online.
 
-3. Code in your API Keys where needed.
+4. Code in your API Keys where needed.
 
-4. HACK ONTO IT.
+5. HACK ONTO IT.
 
 **Notes**
 
